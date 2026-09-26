@@ -1,0 +1,7 @@
+{
+  "auto_backup_enabled": false,
+  "interval_hours": 24,
+  "last_auto_backup": "",
+  "keep_max_backups": 7,
+  "updated_at": "2026-09-19 15:23:20"
+}

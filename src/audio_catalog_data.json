@@ -1,0 +1,380 @@
+[
+  {
+    "code": "JB01",
+    "brand": "JBL",
+    "model": "PARTYBOX ULTIMATE",
+    "sub": "Party Speaker",
+    "power": "1100W RMS",
+    "features": "Wi-Fi + Bluetooth, IPX4, Lightshow, DJ app",
+    "price": 265500000
+  },
+  {
+    "code": "JB02",
+    "brand": "JBL",
+    "model": "PARTYBOX 720",
+    "sub": "Party Speaker",
+    "power": "800W RMS",
+    "features": "Bluetooth 5.4, Battery 15h, IPX4, Auracast, Wheels",
+    "price": 159500000
+  },
+  {
+    "code": "JB03",
+    "brand": "JBL",
+    "model": "PARTYBOX 710",
+    "sub": "Party Speaker",
+    "power": "800W RMS",
+    "features": "AC Power (no battery), IPX4, Lightshow, Karaoke",
+    "price": 117500000
+  },
+  {
+    "code": "JB04",
+    "brand": "JBL",
+    "model": "PARTYBOX 520",
+    "sub": "Party Speaker",
+    "power": "400W RMS",
+    "features": "Bluetooth 5.4, Battery 15h, IPX4, XLR inputs",
+    "price": 121500000
+  },
+  {
+    "code": "JB05",
+    "brand": "JBL",
+    "model": "PARTYBOX 330 - Black",
+    "sub": "Party Speaker",
+    "power": "~240W",
+    "features": "Battery-powered party speaker, Lightshow",
+    "price": 127500000
+  },
+  {
+    "code": "JB06",
+    "brand": "JBL",
+    "model": "PARTYBOX 330 - White",
+    "sub": "Party Speaker",
+    "power": "~240W",
+    "features": "Battery-powered party speaker, Lightshow",
+    "price": 141500000
+  },
+  {
+    "code": "JB07",
+    "brand": "JBL",
+    "model": "PARTYBOX 320 - Black",
+    "sub": "Party Speaker",
+    "power": "~240W",
+    "features": "Bluetooth, Battery, Lightshow, Wheels",
+    "price": 86900000
+  },
+  {
+    "code": "JB08",
+    "brand": "JBL",
+    "model": "PARTYBOX 320 - White",
+    "sub": "Party Speaker",
+    "power": "~240W",
+    "features": "Bluetooth, Battery, Lightshow, Wheels",
+    "price": 103500000
+  },
+  {
+    "code": "JB09",
+    "brand": "JBL",
+    "model": "PARTYBOX 130 - Black",
+    "sub": "Party Speaker",
+    "power": "200W RMS",
+    "features": "Bluetooth 6.0, Battery 15h, IPX4, Auracast",
+    "price": 85500000
+  },
+  {
+    "code": "JB10",
+    "brand": "JBL",
+    "model": "PARTYBOX 130 - White",
+    "sub": "Party Speaker",
+    "power": "200W RMS",
+    "features": "Bluetooth 6.0, Battery 15h, IPX4, Auracast",
+    "price": 95500000
+  },
+  {
+    "code": "JB11",
+    "brand": "JBL",
+    "model": "PARTYBOX 120 - Black",
+    "sub": "Party Speaker",
+    "power": "~160W",
+    "features": "Battery 12h, Mic/Guitar inputs, Lightshow",
+    "price": 68500000
+  },
+  {
+    "code": "JB12",
+    "brand": "JBL",
+    "model": "PARTYBOX 120 - White",
+    "sub": "Party Speaker",
+    "power": "~160W",
+    "features": "Battery 12h, Mic/Guitar inputs, Lightshow",
+    "price": 78500000
+  },
+  {
+    "code": "JB13",
+    "brand": "JBL",
+    "model": "PARTYBOX 110",
+    "sub": "Party Speaker",
+    "power": "160W RMS",
+    "features": "Battery 12h, IPX4, Karaoke, Lightshow",
+    "price": 57500000
+  },
+  {
+    "code": "JB14",
+    "brand": "JBL",
+    "model": "PARTYBOX ENCORE ESSENTIAL 2",
+    "sub": "Party Speaker",
+    "power": "100W RMS",
+    "features": "Battery 15h, IPX4, Bluetooth 5.4, Auracast",
+    "price": 61500000
+  },
+  {
+    "code": "JB15",
+    "brand": "JBL",
+    "model": "PARTYBOX MIC",
+    "sub": "Party Speaker",
+    "power": "-",
+    "features": "Wireless mic + dongle for PartyBox / karaoke",
+    "price": 26500000
+  },
+  {
+    "code": "JB16",
+    "brand": "JBL",
+    "model": "PROTECTIVE COVER - ALL SIZES",
+    "sub": "Accessory",
+    "power": "-",
+    "features": "Protective cover for PartyBox speakers",
+    "price": 6500000
+  },
+  {
+    "code": "JB17",
+    "brand": "JBL",
+    "model": "BOOMBOX 3 - Black",
+    "sub": "Portable Speaker",
+    "power": "180W RMS (AC)",
+    "features": "Battery 24h, IP67, Powerbank",
+    "price": 69500000
+  },
+  {
+    "code": "JB18",
+    "brand": "JBL",
+    "model": "BOOMBOX 4 - Black",
+    "sub": "Portable Speaker",
+    "power": "210W RMS (AC)",
+    "features": "Battery 28h+, IP68, Auracast",
+    "price": 96500000
+  },
+  {
+    "code": "JB19",
+    "brand": "JBL",
+    "model": "BOOMBOX 4 - Squad",
+    "sub": "Portable Speaker",
+    "power": "210W RMS (AC)",
+    "features": "Battery 28h+, IP68, Auracast",
+    "price": 96500000
+  },
+  {
+    "code": "JB20",
+    "brand": "JBL",
+    "model": "BOOMBOX 4 - Blue",
+    "sub": "Portable Speaker",
+    "power": "210W RMS (AC)",
+    "features": "Battery 28h+, IP68, Auracast",
+    "price": 96500000
+  },
+  {
+    "code": "JB21",
+    "brand": "JBL",
+    "model": "BOOMBOX 4 - White",
+    "sub": "Portable Speaker",
+    "power": "210W RMS (AC)",
+    "features": "Battery 28h+, IP68, Auracast",
+    "price": 110500000
+  },
+  {
+    "code": "JB22",
+    "brand": "JBL",
+    "model": "XTREME 5 - Black",
+    "sub": "Portable Speaker",
+    "power": "130W (AC) / 90W (Battery)",
+    "features": "Battery 24h+, IP68, Shoulder strap",
+    "price": 66500000
+  },
+  {
+    "code": "JB23",
+    "brand": "JBL",
+    "model": "CHARGE 6",
+    "sub": "Portable Speaker",
+    "power": "45W RMS (30W+15W)",
+    "features": "Battery 28h, IP68, Powerbank, Lossless USB-C",
+    "price": 31500000
+  },
+  {
+    "code": "JB24",
+    "brand": "JBL",
+    "model": "CLIP 5",
+    "sub": "Portable Speaker",
+    "power": "7W",
+    "features": "Battery 12h, IP67, Carabiner clip",
+    "price": 10900000
+  },
+  {
+    "code": "JB25",
+    "brand": "JBL",
+    "model": "GO 5",
+    "sub": "Portable Speaker",
+    "power": "4.8W",
+    "features": "Battery 8h+, IP67, Compact",
+    "price": 10900000
+  },
+  {
+    "code": "JB26",
+    "brand": "JBL",
+    "model": "TUNE 730BT",
+    "sub": "Headphones",
+    "power": "-",
+    "features": "Over-ear, Bluetooth 6.0, Battery 76h, Multipoint",
+    "price": 10500000
+  },
+  {
+    "code": "JB27",
+    "brand": "JBL",
+    "model": "TUNE 770NC",
+    "sub": "Headphones",
+    "power": "-",
+    "features": "Over-ear ANC, Battery 70h (ANC off) / 44h (ANC on)",
+    "price": 23500000
+  },
+  {
+    "code": "JB28",
+    "brand": "JBL",
+    "model": "BAR 2.1 MK2",
+    "sub": "Soundbar",
+    "power": "300W Max",
+    "features": "2.1ch, Wireless 6.5\" subwoofer, HDMI ARC",
+    "price": 69500000
+  },
+  {
+    "code": "JB29",
+    "brand": "JBL",
+    "model": "BAR 500",
+    "sub": "Soundbar",
+    "power": "590W Max",
+    "features": "5.1ch, Dolby Atmos, Wireless 10\" subwoofer",
+    "price": 139500000
+  },
+  {
+    "code": "JB30",
+    "brand": "JBL",
+    "model": "BAR 500 MK2",
+    "sub": "Soundbar",
+    "power": "750W Max (375W RMS)",
+    "features": "5.1ch, Dolby Atmos + DTS Virtual:X, 10\" sub",
+    "price": 115500000
+  },
+  {
+    "code": "JB31",
+    "brand": "JBL",
+    "model": "BAR 800 MK2",
+    "sub": "Soundbar",
+    "power": "-",
+    "features": "5.1.2ch, Dolby Atmos, Wireless sub + rear speakers",
+    "price": 165500000
+  },
+  {
+    "code": "HK01",
+    "brand": "Harman Kardon",
+    "model": "SOUNDSTICKS 5 - White",
+    "sub": "Home Speaker",
+    "power": "-",
+    "features": "2.1ch iconic design, Bluetooth",
+    "price": 83500000
+  },
+  {
+    "code": "HK02",
+    "brand": "Harman Kardon",
+    "model": "AURA STUDIO 5 - Black (EU)",
+    "sub": "Home Speaker",
+    "power": "160W RMS (2x20W+1x20W+100W sub)",
+    "features": "360° ambient light, Bluetooth",
+    "price": 58500000
+  },
+  {
+    "code": "HK03",
+    "brand": "Harman Kardon",
+    "model": "AURA STUDIO 4 - Black (EU)",
+    "sub": "Home Speaker",
+    "power": "80W RMS (2x15W+50W sub)",
+    "features": "360° light, Bluetooth",
+    "price": 53500000
+  },
+  {
+    "code": "HK04",
+    "brand": "Harman Kardon",
+    "model": "ONYX STUDIO 9 - Grey",
+    "sub": "Home Speaker",
+    "power": "50W RMS",
+    "features": "Bluetooth 5.3, Battery 8h, USB charge-out",
+    "price": 42500000
+  },
+  {
+    "code": "HK05",
+    "brand": "Harman Kardon",
+    "model": "ONYX STUDIO 9 - Black",
+    "sub": "Home Speaker",
+    "power": "50W RMS",
+    "features": "Bluetooth 5.3, Battery 8h, USB charge-out",
+    "price": 42500000
+  },
+  {
+    "code": "SO01",
+    "brand": "Sony",
+    "model": "ULT900 (ULT TOWER 9)",
+    "sub": "Party Speaker",
+    "power": "-",
+    "features": "ULT Bass modes, 25h battery, Party Connect, Karaoke",
+    "price": 155500000
+  },
+  {
+    "code": "SO02",
+    "brand": "Sony",
+    "model": "XV900 (SRS-XV900)",
+    "sub": "Party Speaker",
+    "power": "-",
+    "features": "Omnidirectional sound, 25h battery, Party Connect",
+    "price": 135500000
+  },
+  {
+    "code": "SO03",
+    "brand": "Sony",
+    "model": "XP700 (SRS-XP700)",
+    "sub": "Party Speaker",
+    "power": "-",
+    "features": "X-Balanced speakers, IPX4, Party Connect",
+    "price": 88500000
+  },
+  {
+    "code": "SO04",
+    "brand": "Sony",
+    "model": "XP500 (SRS-XP500)",
+    "sub": "Party Speaker",
+    "power": "-",
+    "features": "X-Balanced speakers, IPX4, Party Connect",
+    "price": 78500000
+  },
+  {
+    "code": "HO01",
+    "brand": "Hopestar",
+    "model": "PARTY 500",
+    "sub": "Party Speaker",
+    "power": "~100W",
+    "features": "Bluetooth, LED lights, Battery powered",
+    "price": 27500000
+  },
+  {
+    "code": "HO02",
+    "brand": "Hopestar",
+    "model": "H90",
+    "sub": "Party Speaker",
+    "power": "~580W (claimed)",
+    "features": "3-way 6-speaker, Bluetooth, Party lights",
+    "price": 33500000
+  }
+]

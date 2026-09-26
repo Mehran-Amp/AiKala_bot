@@ -1,0 +1,8 @@
+{
+  "name": "Invoice Option B Studio",
+  "description": "سامانه کاتالوگ فروشگاه هوشمند AiKala، سیستم‌های صوتی و پارتی‌باکس، صدور لیست قیمت PDF، پایش کانال‌ها و فاکتور حرارتی Option B",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
